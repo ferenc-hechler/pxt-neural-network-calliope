@@ -1,0 +1,30 @@
+{
+    "name": "ainn",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "description": "",
+    "files": [
+        "shims.d.ts",
+        "typetest.cpp",
+        "typetest.ts",
+        "neuralnetwork.ts",
+        "neuralnetwork.cpp",
+        "Mat.h",
+        "Mat.cpp",
+        "NN.h",
+        "NN.cpp",
+        "NNLayer.h",
+        "NNLayer.cpp",
+        "NNUtils.h",
+        "NNUtils.cpp",
+        "Utils.h",
+        "Utils.cpp",
+        "Vect.h",
+        "Vect.cpp",
+        "README.md"
+    ],
+    "public": false,
+    "preferredEditor": "blocksprj"
+}
